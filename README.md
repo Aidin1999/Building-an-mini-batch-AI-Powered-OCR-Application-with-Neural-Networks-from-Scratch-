@@ -1,0 +1,1 @@
+# Building-an-mini-batch-AI-Powered-OCR-Application-with-Neural-Networks-from-Scratch-
